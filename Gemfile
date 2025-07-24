@@ -1,6 +1,6 @@
 source 'https://rubygems.org' do
 	gem 'selenium-webdriver'
-	gem 'nokogiri'
+	gem 'nokogiri', '>= 1.18.9'
 	gem 'ruby-progressbar'
-	gem 'mechanize'
+	gem 'mechanize', '>= 2.7.7'
 end
